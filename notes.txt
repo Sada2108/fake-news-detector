@@ -1,0 +1,4 @@
+Python is easy to learn.
+File handling is important concept in python.
+Do practice as practice makes it perfect !!!.
+Keep learning Python!
